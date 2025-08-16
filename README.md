@@ -27,5 +27,5 @@ Originally built to manage my own college expenses, later expanded into a full-f
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/finance-tracker.git
+   git clone https://github.com/Vimanishi/finance-tracker.git
    cd finance-tracker
